@@ -1,1 +1,1 @@
-update from B-1
+update from B-1 'Before rebase'
